@@ -6,7 +6,7 @@ This repository showcases the alignment results of visible and infrared image pa
 
 ---
 
-<table>
+<!-- <table>
   <tr>
     <td>
       <video src="https://github.com/user-attachments/assets/d533b94f-61ce-47bf-8e1e-051d4522f5b1"
@@ -37,5 +37,30 @@ This repository showcases the alignment results of visible and infrared image pa
              autoplay muted loop playsinline width="400"></video>
     </td>
   </tr>
-</table>
+</table> -->
+
+
+
+
+
+https://github.com/user-attachments/assets/ac383b53-7c81-4d34-a07e-1a42a6e460d4
+
+
+
+https://github.com/user-attachments/assets/f1f755ad-0651-43a8-8152-dc01b26d0ccf
+
+
+
+https://github.com/user-attachments/assets/05eb82ec-551c-4fb0-aee0-1f8dcd4f2e6c
+
+
+https://github.com/user-attachments/assets/8e55c13e-8a25-4230-a23a-8c105b26850f
+
+
+
+https://github.com/user-attachments/assets/86bdab82-2ba1-496a-a7e0-fa4108419bfb
+
+
+
+https://github.com/user-attachments/assets/0670ee35-9e0e-4b29-9116-0469558b96e0
 
